@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Destroid1669 | Discord" width="22px" src="https://www.behance.net/gallery/117186901/Discord-banner-for-stream-platform-Twitch/modules/668004067" />][Discord]
+[<img align="left" alt="Destroid1669 | Discord" width="22px" src="https://github.com/Destroid1669/Destroid1669/blob/main/discord-icon.jpg" />][Discord]
 
 <br />
 

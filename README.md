@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][Discord]
+[<img align="left" alt="codeSTACKr | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][Discord]
 
 <br />
 
@@ -27,6 +27,6 @@
 <br />
 <br />
 
-<img align="left" alt="Destroid's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Destroid1669">
+<img align="left" alt="Destroid's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Destroid1669&show_icons=true&theme=radical">
 
 [discord]: https://discord.gg/TjGnk8NNfZ

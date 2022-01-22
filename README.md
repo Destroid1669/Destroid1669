@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning python 🤣
 - 👯 I’m looking to collaborate with other programmers
-- 🥅 2020 Goals: Clear and Enhance my programming skills
+- 🥅 2022 Goals: Clear and Enhance my programming skills
 - 👨‍🎓 Currently a Student of Amrita Vishwa Vidyapeetham
 - ⚡ Fun fact: I like to play fps games mostly battle royals
 

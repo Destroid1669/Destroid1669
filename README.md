@@ -27,6 +27,6 @@
 <br />
 <br />
 
-<img align="left" alt="Destroid's GitHub Stats" src="https://github-readme-stats.Destroid1669.vercel.app/api?username=Destroid1669&show_icons=true&hide_border=true" />
+<img align="left" alt="Destroid's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs/>
 
 [discord]: https://discord.gg/TjGnk8NNfZ

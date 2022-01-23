@@ -32,7 +32,9 @@
 <br />
 
 <img align="left" alt="Destroid's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Destroid1669&show_icons=true&theme=radical">
+
+[discord]: https://discord.gg/TjGnk8NNfZ
+
 <!---
 <img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Destroid1669&theme=blue-green">
 -->
-[discord]: https://discord.gg/TjGnk8NNfZ

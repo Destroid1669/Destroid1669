@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate with other programmers
 - 🥅 2022 Goals: Improve and Enhance my programming skills
 - 👨‍🎓 Currently a Student of Amrita Vishwa Vidyapeetham
-- ⚡ Fun fact: I like to play fps games mostly battle royals
+- ⚡ Fun fact: I like to play Soccer and online fps Games
 
 ### Connect with me:
 
@@ -18,6 +18,7 @@
 
 <img align="left" alt="Visual Studio Code" width="26x" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Sublime Text" width="30px" src="https://github.com/Destroid1669/Destroid1669/blob/main/sublime-text-icon.png" />
+<img align="left" alt="Python" width="30px" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <!---
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
